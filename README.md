@@ -10,12 +10,14 @@
 
 🌱 I’m currently learning the fundamental skills of software development. Check out [my profile](https://github.com/eliazzo) to follow my learning journey! 
 
+## Read my [CV](https://eliazzo.github.io/Website-2/CV%20FAC.pdf)
+
 ⚡ Fun fact: I'm a qualified yoga instructor 🧘
 
 📫 How to reach me:
-- Linked in
-- Email
-- Whatsapp
+- [LinkedIn](https://www.linkedin.com/in/elisabeth-azzopardi-b3496a247/)
+- [Email](bethazz@hotmail.co.uk)
+
 
 <!--
 **eliazzo/eliazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
