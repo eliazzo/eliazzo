@@ -1,22 +1,22 @@
-# eliazzo
-![image test](hockney background.jpg)
+# ✨eliazzo✨
+![hockney image header](hockney.jpg)
 
-#### Hi there 👋 My name is Elisabeth (she/her/they) and I am an aspiring software developer. I graduated in July 2022 from the University of Manchester with a BA in Linguistics and Spanish. I have just started Founders and Coder's Skills Bootcamp and hope to secure a software development apprenticeship over the next few months. My interests include but are not limited to
-- Yoga
+#### Hi there 👋 My name is Elisabeth (she/her/they) and I am an aspiring software developer. I graduated in July 2022 from the University of Manchester with a BA in Linguistics and Spanish. I have just started Founders and Coder's Skills Bootcamp and hope to secure a software development apprenticeship over the next few months. My interests outside of coding include but are not limited to
+- Yoga (⚡ Fun fact: I'm a qualified yoga instructor 🧘)
 - Travel
-- Languages
-- Food
-- and **coding!**
+- Languages (I speak Spanish and a goal of mine is to French)
+- Food 🌶️ 🍤 🍋 🍜 🥐 🥑 (Cooking AND eating)
+
 
 🌱 I’m currently learning the fundamental skills of software development. Check out [my profile](https://github.com/eliazzo) to follow my learning journey! 
 
 ## Read my [CV](https://eliazzo.github.io/Website-2/CV%20FAC.pdf)
 
-⚡ Fun fact: I'm a qualified yoga instructor 🧘
+
 
 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/elisabeth-azzopardi-b3496a247/)
-- [Email](bethazz@hotmail.co.uk)
+> [LinkedIn](https://www.linkedin.com/in/elisabeth-azzopardi-b3496a247/)
+> [Email](bethazz@hotmail.co.uk)
 
 
 <!--
