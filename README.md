@@ -1,4 +1,21 @@
-### Hi there 👋
+# eliazzo
+![image test](hockney background.jpg)
+
+#### Hi there 👋 My name is Elisabeth (she/her/they) and I am an aspiring software developer. I graduated in July 2022 from the University of Manchester with a BA in Linguistics and Spanish. I have just started Founders and Coder's Skills Bootcamp and hope to secure a software development apprenticeship over the next few months. My interests include but are not limited to
+- Yoga
+- Travel
+- Languages
+- Food
+- and **coding!**
+
+🌱 I’m currently learning the fundamental skills of software development. Check out [my profile](https://github.com/eliazzo) to follow my learning journey! 
+
+⚡ Fun fact: I'm a qualified yoga instructor 🧘
+
+📫 How to reach me:
+- Linked in
+- Email
+- Whatsapp
 
 <!--
 **eliazzo/eliazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
