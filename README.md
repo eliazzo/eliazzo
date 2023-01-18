@@ -3,11 +3,11 @@
 ![dall e](DALL.E.png)
 > Image generated using [DALL.E](https://openai.com/dall-e-2/) 
 
-### Hi there 👋 My name is Elisabeth (she/her/they) and I am an aspiring software developer. 
+## Hi there 👋 My name is Elisabeth (she/her/they) and I am an aspiring software developer. 
 
 ### I graduated in July 2022 from the University of Manchester with a BA in Linguistics and Spanish. 
 
-## I have just started Founders and Coder's Skills Bootcamp and hope to secure a software development apprenticeship over the next few months. My interests outside of coding include but are not limited to
+### I have just started Founders and Coder's Skills Bootcamp and am looking to secure a software development apprenticeship over the next few months. My interests outside of coding include but are not limited to
 
 - Yoga ⚡ Fun fact: I'm a qualified yoga instructor 🧘
 - Travel
@@ -19,9 +19,9 @@
 
 # Languages
 
-- HTML
-- CSS
-- JavaScript
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
 
@@ -29,8 +29,8 @@
 
 
 
-📫 How to reach me:
-> (![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/elisabeth-azzopardi-b3496a247/)
+## 📫  How to reach me:
+> ![LinkedIn]((https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://www.linkedin.com/in/elisabeth-azzopardi-b3496a247/)
 
 > [Email](bethazz@hotmail.co.uk)
 
