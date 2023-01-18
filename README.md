@@ -1,6 +1,6 @@
 # ✨eliazzo✨
 
-![dall e](DALL%C2%B7E%202023-01-18%2018.21.03%20-%20A%20white%2C%20tanned%20skin%2C%20dark%20brown%20haired%20women%20coding%20at%20a%20silver%20macbook%20in%20the%20style%20of%20david%20hockney.png)
+![dall e](DALL.E.png)
 > Image generated using [DALL.E](https://openai.com/dall-e-2/) 
 
 ### Hi there 👋 My name is Elisabeth (she/her/they) and I am an aspiring software developer. 
