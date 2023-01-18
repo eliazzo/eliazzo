@@ -2,9 +2,9 @@
 ![hockney image header](hockney.jpg)
 
 #### Hi there 👋 My name is Elisabeth (she/her/they) and I am an aspiring software developer. I graduated in July 2022 from the University of Manchester with a BA in Linguistics and Spanish. I have just started Founders and Coder's Skills Bootcamp and hope to secure a software development apprenticeship over the next few months. My interests outside of coding include but are not limited to
-- Yoga (⚡ Fun fact: I'm a qualified yoga instructor 🧘)
+- Yoga ⚡ Fun fact: I'm a qualified yoga instructor 🧘
 - Travel
-- Languages (I speak Spanish and a goal of mine is to French)
+- Languages (I speak Spanish and a goal of mine is to learn French)
 - Food 🌶️ 🍤 🍋 🍜 🥐 🥑 (Cooking AND eating)
 
 
@@ -16,6 +16,7 @@
 
 📫 How to reach me:
 > [LinkedIn](https://www.linkedin.com/in/elisabeth-azzopardi-b3496a247/)
+
 > [Email](bethazz@hotmail.co.uk)
 
 
