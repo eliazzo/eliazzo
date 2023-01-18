@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">✨eliazzo✨</h1>
+#✨eliazzo✨#
 
 ![hockney image header](hockney.jpg)
 
@@ -9,9 +9,25 @@
 - Food 🌶️ 🍤 🍋 🍜 🥐 🥑 (Cooking AND eating)
 
 
+
+
+
 🌱 I’m currently learning the fundamental skills of software development. Check out [my profile](https://github.com/eliazzo) to follow my learning journey! 
 
+
+
+
+
+
+
+
 ## Read my [CV](https://eliazzo.github.io/Website-2/CV%20FAC.pdf)
+
+
+
+
+
+
 
 
 
