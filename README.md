@@ -19,12 +19,11 @@
 
 ## Some of my recent projects 
 
-<a href="https://github.com/fac27/agency-website">Agency Website</a>
-<a href="https://github.com/eliazzo/Image-Carousel">Image Carousel</a>
-<a href="https://github.com/eliazzo/Colour-palette">Colour Palette</a>
-<a href="https://github.com/eliazzo/Movie-data">Movie Data User Interface</a>
->> ![Color Palette](https://github.com/eliazzo/Colour-palette)
->>> ![Movie Data User Interface](https://github.com/eliazzo/Movie-data)
+<a href="https://github.com/fac27/agency-website">Agency Website</a><br>
+<a href="https://github.com/eliazzo/Image-Carousel">Image Carousel</a><br>
+<a href="https://github.com/eliazzo/Colour-palette">Colour Palette</a><br>
+<a href="https://github.com/eliazzo/Movie-data">Movie Data User Interface</a><br>
+
 <br>
 <br>
   
