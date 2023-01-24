@@ -12,13 +12,17 @@
 <br>
 <h3 align="center"> I graduated in July 2022 from the University of Manchester with BA Hons in Linguistics and Spanish. <h3>
 
-<h3 align="center"> I have just started Founders and Coder's Skills Bootcamp and am looking to secure a software development apprenticeship. 🌱 I’m currently learning the fundamental skills of software development. Check out [my profile](https://github.com/eliazzo) to follow my learning journey! <h3>
+<h3 align="center"> I have just started Founders and Coder's Skills Bootcamp and am looking to secure a software development apprenticeship. 🌱 I’m currently learning the fundamental skills of software development. Check out <a href="https://github.com/eliazzo">my profile</a> to follow my learning journey! <h3>
 <br>
 <br>
 <br>
 
-## Some of my projects 
-> ![Image Carousel](https://github.com/eliazzo/Image-Carousel)
+## Some of my recent projects 
+
+<a href="https://github.com/fac27/agency-website">Agency Website</a>
+<a href="https://github.com/eliazzo/Image-Carousel">Image Carousel</a>
+<a href="https://github.com/eliazzo/Colour-palette">Colour Palette</a>
+<a href="https://github.com/eliazzo/Movie-data">Movie Data User Interface</a>
 >> ![Color Palette](https://github.com/eliazzo/Colour-palette)
 >>> ![Movie Data User Interface](https://github.com/eliazzo/Movie-data)
 <br>
@@ -26,9 +30,7 @@
   
 ## Languages
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliazzo&theme=dark)](https://github.com/eliazzo/github-readme-stats)
 
 <br>
 <br>
