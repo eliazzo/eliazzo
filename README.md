@@ -12,7 +12,7 @@
 <br>
 <h3 align="center"> I graduated in July 2022 from the University of Manchester with BA Hons in Linguistics and Spanish. <h3>
 
-<h3 align="center"> I have just started Founders and Coder's Skills Bootcamp and am looking to secure a software development apprenticeship. 🌱 I’m currently learning the fundamental skills of software development. Check out <a href="https://github.com/eliazzo?tab=repositories">my respositories</a> to follow my learning journey! <h3>
+<h3 align="center"> I have just started Founders and Coder's Skills Bootcamp and am looking to secure a software development apprenticeship. 🌱 I’m currently learning the fundamental skills of software development. Check out my<a href="https://github.com/eliazzo?tab=repositories"> Repositories</a> to follow my learning journey! <h3>
 <br>
 <br>
 <br>
