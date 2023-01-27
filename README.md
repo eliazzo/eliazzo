@@ -12,6 +12,8 @@
 <br>
 <h3 align="center"> I graduated in July 2022 from the University of Manchester with BA Hons in Linguistics and Spanish. <h3>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eliazzo&theme=blueberry_duo)](https://git.io/streak-stats)
+
 <h3 align="center"> I have just started Founders and Coder's Skills Bootcamp and am looking to secure a software development apprenticeship. 🌱 I’m currently learning the fundamental skills of software development. Check out my<a href="https://github.com/eliazzo?tab=repositories"> Repositories</a> to follow my learning journey! <h3>
 <br>
 <br>
@@ -35,7 +37,6 @@
 <br>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eliazzo&theme=blueberry_duo)](https://git.io/streak-stats)
 
 
 <h2 align="center"> Read my <a href="https://eliazzo.github.io/Website-2/CV%20FAC.pdf">CV<a><h2>
