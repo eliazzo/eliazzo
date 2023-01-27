@@ -17,6 +17,7 @@
 <br>
 <br>
 
+
 ## Some of my recent projects 
 
 <a href="https://github.com/fac27/agency-website">Agency Website</a><br>
@@ -33,6 +34,9 @@
 
 <br>
 <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?eliazzo=DenverCoder1)](https://git.io/streak-stats)
+
 
 <h2 align="center"> Read my <a href="https://eliazzo.github.io/Website-2/CV%20FAC.pdf">CV<a><h2>
 
