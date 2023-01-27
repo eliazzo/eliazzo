@@ -30,7 +30,7 @@
   
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliazzo&theme=dark)](https://github.com/eliazzo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliazzo&theme=blueberry_duo)](https://github.com/eliazzo/github-readme-stats)
 
 <br>
 <br>
