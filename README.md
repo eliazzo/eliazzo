@@ -12,7 +12,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=eliazzo&theme=blueberry_duo)](https://git.io/streak-stats)
 
-<h3 align="center"> I am currently a student on the Founders and Coders Skills Bootcamp and looking to secure a software development apprenticeship. 🌱 I have strong foundations in HTML, JavaScript and CSS that I am combining with new learnings daily as I progress through the course. I’m currently learning about asynchronous JavaScript and using open API's in my projects. Check out my<a href="https://github.com/eliazzo?tab=repositories"> Repositories</a> to follow my learning journey! <h3>
+<h3 align="center"> I am currently a student on the Founders and Coders Skills Bootcamp and looking to secure a software development apprenticeship. 🌱 I have strong foundations in HTML, JavaScript and CSS that I am combining with new learnings daily as I progress through the course. I’m currently learning about asynchronous JavaScript and using open API's in my projects.<br>Check out my<a href="https://github.com/eliazzo?tab=repositories"> Repositories</a> to follow my learning journey! <h3>
 <br>
 <br>
 <br>
