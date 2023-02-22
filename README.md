@@ -1,6 +1,6 @@
 <h1 align="center">✨ eliazzo ✨<h1>
 
-<h2 align="center"> Hi there 👋 <br> My name is Elisabeth (she/her/they) and I am an aspiring software developer. <h2> 
+<h2 align="center"> Hi there 👋 <br> My name is Elisabeth Azzopardi (she/her/they) and I am a junior software developer. <h2> 
 <br>
 <br>
   
@@ -10,11 +10,11 @@
 <br>
 <br>
 <br>
-<h3 align="center"> I graduated in July 2022 from the University of Manchester with BA Hons in Linguistics and Spanish. <h3>
+<h3 align="center"> I graduated in July 2022 from the University of Manchester with First Class Hons in Linguistics and Spanish. <h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=eliazzo&theme=blueberry_duo)](https://git.io/streak-stats)
 
-<h3 align="center"> I have just started Founders and Coder's Skills Bootcamp and am looking to secure a software development apprenticeship. 🌱 I’m currently learning the fundamental skills of software development. Check out my<a href="https://github.com/eliazzo?tab=repositories"> Repositories</a> to follow my learning journey! <h3>
+<h3 align="center"> I am currently a student on the Founders and Coders Skills Bootcamp and looking to secure a software development apprenticeship. 🌱 I have strong foundations in HTML, JavaScript and CSS that I am constantly combining with new learnigns as I progress through the course. I’m currently learning about asynchronous JavaScript and using open API's in my projects. Check out my<a href="https://github.com/eliazzo?tab=repositories"> Repositories</a> to follow my learning journey! <h3>
 <br>
 <br>
 <br>
@@ -22,6 +22,7 @@
 
 ## Some of my recent projects 
 
+<a href="https://fac27.github.io/Git-a-dog/">Git-a-dog</a><br>
 <a href="https://github.com/fac27/agency-website">Agency Website</a><br>
 <a href="https://github.com/eliazzo/Image-Carousel">Image Carousel</a><br>
 <a href="https://github.com/eliazzo/Colour-palette">Colour Palette</a><br>
