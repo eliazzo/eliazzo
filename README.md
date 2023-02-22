@@ -1,6 +1,4 @@
-<h1 align="center">✨ eliazzo ✨<h1>
-
-<h2 align="center"> Hi there 👋 <br> My name is Elisabeth Azzopardi (she/her/they) and I am a junior software developer. <h2> 
+<h1 align="center"> Hi there 👋 <br> My name is Elisabeth Azzopardi (she/her/they) and I am a junior software developer. <h1> 
 <br>
 <br>
   
@@ -14,7 +12,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=eliazzo&theme=blueberry_duo)](https://git.io/streak-stats)
 
-<h3 align="center"> I am currently a student on the Founders and Coders Skills Bootcamp and looking to secure a software development apprenticeship. 🌱 I have strong foundations in HTML, JavaScript and CSS that I am constantly combining with new learnigns as I progress through the course. I’m currently learning about asynchronous JavaScript and using open API's in my projects. Check out my<a href="https://github.com/eliazzo?tab=repositories"> Repositories</a> to follow my learning journey! <h3>
+<h3 align="center"> I am currently a student on the Founders and Coders Skills Bootcamp and looking to secure a software development apprenticeship. 🌱 I have strong foundations in HTML, JavaScript and CSS that I am constantly combining with new learnings as I progress through the course. I’m currently learning about asynchronous JavaScript and using open API's in my projects. Check out my<a href="https://github.com/eliazzo?tab=repositories"> Repositories</a> to follow my learning journey! <h3>
 <br>
 <br>
 <br>
