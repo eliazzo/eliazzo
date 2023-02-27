@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 <br> My name is Elisabeth Azzopardi (she/her/they) and I am a junior software developer. <h1> 
+<h1 align="center"> Hi there 👋 <br> My name is Elisabeth Azzopardi (she/her/they) and I am a junior software developer currently on the Founders and Coders bootcamp. <h1> 
 <br>
 <br>
   
