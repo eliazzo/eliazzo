@@ -38,7 +38,7 @@
 
 
 
-<h2 align="center"> Read my <a href="https://eliazzo.github.io/Website-2/CV%20FAC.pdf">CV<a><h2>
+<h2 align="center"> Read my <a href="[https://eliazzo.github.io/Website-2/CV%20FAC.pdf](https://www.canva.com/design/DAFaqu380dg/MLdirn4-TqpYfbGtuBygqw/view?utm_content=DAFaqu380dg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)">CV<a><h2>
 
 <br>
 <br>
