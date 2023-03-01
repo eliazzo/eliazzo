@@ -1,16 +1,19 @@
 <h1 align="center"> Hi there 👋 </h1> <br> <br> <h2> My name is Elisabeth Azzopardi (she/her/they) and I am a junior software developer. <h2> 
 <br>
 <br>
+    
+- I graduated in July 2022 from the University of Manchester with First Class Honours in Linguistics and Spanish. 
   
-  <h3 align="center"> I am currently a student on the Founders and Coders Skills Bootcamp and looking to secure a software development apprenticeship. 🌱 I have strong foundations in HTML, JavaScript and CSS that I am combining with new learnings daily as I progress through the course. I’m currently learning about asynchronous JavaScript and using open API's in my projects.<br>Check out my<a href="https://github.com/eliazzo?tab=repositories"> Repositories</a> to follow my learning journey! <h3>
+- I am a current student of the Founders and Coders Skills Bootcamp and looking to secure a software development apprenticeship. 🌱 
+  
+- I have strong foundations in HTML, JavaScript and CSS that I am combining with new learnings daily as I progress through the course. *I’m currently learning about asynchronous JavaScript and using open API's in my projects.*
+  
+- Check out my<a href="https://github.com/eliazzo?tab=repositories"> Repositories</a> to follow my learning journey! <h3>
   
 <img align="center" src="DALL.E.png" width="300" alt="Woman coding">
 
 ##### Image generated using [DALL.E](https://openai.com/dall-e-2/) 
-<br>
-<br>
-<br>
-<h3 align="center"> I graduated in July 2022 from the University of Manchester with First Class Hons in Linguistics and Spanish. <h3>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=eliazzo&theme=blueberry_duo)](https://git.io/streak-stats)
 
