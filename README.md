@@ -47,12 +47,12 @@
 <br>
 <br>
   
-Languages:
+
+## GitHub activity
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliazzo&theme=blueberry_duo)](https://github.com/eliazzo/github-readme-stats)
 
-<br>
-GitHub activity:
-
 [![GitHub activity](https://streak-stats.demolab.com/?user=eliazzo&theme=blueberry_duo)](https://git.io/streak-stats)
+
+[![Eliazzo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eliazzo&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
