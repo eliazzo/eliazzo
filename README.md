@@ -9,7 +9,7 @@
 
 - 🌱 I’m a current student of the **Founders and Coders skills bootcamp** and looking to secure a software development apprenticeship.
 
-- 🏛️ I have strong foundations in **HTML**, vanilla **JavaScript** and **CSS** that I am combining with new learnings on a daily basis as I progress through the course. I recently completed a module in **asynchronous JavaScript** and am currently learning about **testing**.
+- 🏛️ I have strong foundations in **HTML**, vanilla **JavaScript** and **CSS** that I am combining with new learnings on a daily basis as I progress through the course. I recently completed a module in **asynchronous JavaScript** and am currently learning about **testing methods**.
 
 - 📓 Check my learning journey in this [portfolio](https://github.com/fac27/eliazzo-portfolio) which features up to date reflections on the modules covered on the course.
 
