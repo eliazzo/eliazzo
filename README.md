@@ -9,7 +9,7 @@
 
 - 🌱 I’m a current student of the **Founders and Coders skills bootcamp** and looking to secure a software development apprenticeship.
 
-- 🏛️ I have strong foundations in **HTML**, vanilla **JavaScript** and **CSS** that I am combining with new learnings on a daily basis as I progress through the course. I recently completed a module in **asynchronous JavaScript** and am currently learning about **testing methods**.
+- 🏛️ I have strong foundations in **HTML**, vanilla **JavaScript** and **CSS** that I am combining with new learnings on a daily basis as I progress through the course. I recently completed a module in **asynchronous JavaScript** and a module which looked at different **testing methods**.
 
 - 📓 Check my learning journey in this [portfolio](https://github.com/fac27/eliazzo-portfolio) which features up to date reflections on the modules covered on the course.
 
@@ -22,6 +22,8 @@
 - Using asynchronous JavaScript and open API's: <a href="https://fac27.github.io/Git-a-dog/">Git-a-dog</a><br>
 
 - Focusing on accessible web development and high quality CSS practices: <a href="https://github.com/fac27/agency-website">Agency Website</a><br>
+
+- A whiteboard and sticker feature created using vanilla JavaScript completed as part of a take-home challenge set by [tldraw](https://github.com/tldraw): <a href="https://github.com/eliazzo/tldraw">Tldraw take-home</a><br>
 
 - Just for fun - originally an application project that has turned into an ongoing project where I can apply new learnings: <a href="https://github.com/eliazzo/Movie-data">Movie Data UI</a><br>
 
