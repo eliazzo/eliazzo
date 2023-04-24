@@ -9,7 +9,7 @@
 
 - 🌱 I’m a student of the **Founders and Coders Developer programme** and looking to secure a software development apprenticeship in the coming months.
 
-- 🏛️ As part of the **Founders and Coders Foundation programme** I built strong foundations in **HTML**, vanilla **JavaScript** and **CSS** that I combine with new learnings on a daily basis. I have knowledge of **asynchronous JavaScript** and have used different **testing methods**, including Test Driven Development.
+- 🏛️ As part of the **Founders and Coders Foundation programme** I have built strong foundations in **HTML**, vanilla **JavaScript** and **CSS** that I combine with new learnings on a daily basis. I have knowledge of **asynchronous JavaScript** and have used different **testing methods**, including Test Driven Development.
 
 - 📍I am currently learning how to use Node.js and Express.js to create and test HTTP servers. I am also familiarising myself with React.js ahead of some incoming projecs that will require good knowledge of the framework.
 
