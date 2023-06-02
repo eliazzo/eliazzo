@@ -43,8 +43,15 @@
 
 - 📓 Check my learning journey in this [portfolio](https://github.com/fac27/eliazzo-portfolio) where I made reflections on the modules covered on during the early stages of my training. 
 
-- 👽 All of my other projects are available on my [github](https://github.com/eliazzo?tab=repositories) 
+- 👽 All of my other projects are available on my [github](https://github.com/eliazzo?tab=repositories)
 
+<br>
+
+
+### DevOps
+
+<img src="https://fly.io/static/images/brand/logo-landscape.svg" alt="Fly.io" width="60" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="60" height="40"/>
+  
 
 <br>
 
