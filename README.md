@@ -74,12 +74,3 @@
 <br>
 <br>
   
-
-## GitHub activity
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliazzo&theme=blueberry_duo)](https://github.com/eliazzo/github-readme-stats)
-
-[![GitHub activity](https://streak-stats.demolab.com/?user=eliazzo&theme=blueberry_duo)](https://git.io/streak-stats)
-
-
-
