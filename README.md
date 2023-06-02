@@ -48,9 +48,11 @@
 <br>
 
 
-### DevOps
+<div align="center"> 
+  <h2>DevOps</h2>
 
-<img src="https://fly.io/static/images/brand/logo-landscape.svg" alt="Fly.io" width="60" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="60" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="AWS"  width="60" height="40"/><img src="https://fly.io/static/images/brand/logo-landscape.svg" alt="Fly.io" width="70" height="50"/>
+</div>
   
 
 <br>
