@@ -23,7 +23,10 @@
 
 - 🌱 I’m currently working as a course facilitator at [Founders and Coders](https://www.foundersandcoders.com/) who provide tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact. 
 
-- 🎓 I specialised in Linguistics at university and went on to teach English Language GCSE and work with SEN and EAL students at secondary school level. I am now a student of the Founders and Coders immersive developer programme where I am training to become a full-stack software engineer. 
+- 🎓 I specialised in Linguistics at university and went on to teach English Language GCSE and work with SEN and EAL students at secondary school level. I am now a student of the Founders and Coders immersive developer programme where I am training to become a full-stack software engineer.
+ 
+- 👩‍💻 I am highly collaborative and familiar with Agile practices. The projects listed below demonstrated some of the technical areas I have covered so far...
+
 
 <br>
 <br>
