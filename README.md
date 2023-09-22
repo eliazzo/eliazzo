@@ -21,7 +21,9 @@
 </p>
 
 
-- 🌱 I’m currently working as a course facilitator at [Founders and Coders](https://www.foundersandcoders.com/) who provide tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact. 
+- 🌱 I’m currently working as a Software Developer and Course Facilitator at [Founders and Coders](https://www.foundersandcoders.com/) who provide tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact.
+  
+- 🦠 My role involves designing and enhancing internal platforms and learning materials for staff and students using technologies such as React.js, Next.js, Node.js, and SQL.
 
 - 🎓 I specialised in Linguistics at university and went on to teach English Language GCSE and work with SEN and EAL students at secondary school level. I was previously a student of the Founders and Coders immersive developer programme where I trained to become a full-stack software engineer.
  
