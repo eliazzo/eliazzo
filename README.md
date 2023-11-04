@@ -21,7 +21,7 @@
 </p>
 
 
-- 🌱 I’m currently working as a Software Developer and Course Facilitator at [Founders and Coders](https://www.foundersandcoders.com/) who provide tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact.
+- 🌱 I’m currently working as a Software Developer and Course Facilitator at [Founders and Coders](https://www.foundersandcoders.com/). We provide tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact.
   
 - 🦠 My role involves designing and enhancing internal platforms and learning materials for staff and students using technologies such as React.js, Next.js, Node.js, and SQL.
 
