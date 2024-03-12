@@ -2,6 +2,17 @@
 <h1 align="center">Hi there👋</h1>
 <br>
 
+
+- 🌱 I’m currently working as a Software Developer and Course Facilitator at [Founders and Coders](https://www.foundersandcoders.com/). We provide tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact.
+  
+- 🦠 My role involves designing and enhancing internal platforms and learning materials for staff and students using technologies such as React.js, Next.js, Node.js, and SQL.
+
+- 🎓 I specialised in Linguistics at university and went on to teach English Language GCSE and work with SEN and EAL students at secondary school level. I was previously a student of the Founders and Coders immersive developer programme where I trained to become a full-stack software engineer.
+ 
+- 👩‍💻 I am highly collaborative and familiar with Agile practices. The projects listed below demonstrate some of the technical areas I have covered so far...
+
+
+<br>
 <p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -17,17 +28,6 @@
   </a> 
 </p>
 
-
-- 🌱 I’m currently working as a Software Developer and Course Facilitator at [Founders and Coders](https://www.foundersandcoders.com/). We provide tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact.
-  
-- 🦠 My role involves designing and enhancing internal platforms and learning materials for staff and students using technologies such as React.js, Next.js, Node.js, and SQL.
-
-- 🎓 I specialised in Linguistics at university and went on to teach English Language GCSE and work with SEN and EAL students at secondary school level. I was previously a student of the Founders and Coders immersive developer programme where I trained to become a full-stack software engineer.
- 
-- 👩‍💻 I am highly collaborative and familiar with Agile practices. The projects listed below demonstrate some of the technical areas I have covered so far...
-
-
-<br>
 <br>
 
 
