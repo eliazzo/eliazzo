@@ -1,9 +1,6 @@
 <br>
 <h1 align="center">Hi there👋</h1>
 <br>
-<h2 align="center">My name is Elisabeth (she/her) and I am a junior software developer</h2>
-<br>
-
 
 <p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
