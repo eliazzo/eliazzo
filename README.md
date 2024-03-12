@@ -9,29 +9,12 @@
 
 - 🎓 I specialised in Linguistics at university and went on to teach English Language GCSE and work with SEN and EAL students at secondary school level. I was previously a student of the Founders and Coders immersive developer programme where I trained to become a full-stack software engineer.
  
-- 👩‍💻 I am highly collaborative and familiar with Agile practices. The projects listed below demonstrate some of the technical areas I have covered so far...
-
-
+- 👩‍💻 I am highly collaborative and familiar with Agile practices.
 <br>
-<p align="center"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-</p>
-
 <br>
-
-
-## Some recent projects:
+The projects listed below demonstrate some of the technical areas I covered in my training...
+<br>
+<br>
 
 - 💎 Tyepscript, Supabase, Next13 and OpenAi: [Ai-kan](https://github.com/fac27/AI-Kan)
 
@@ -50,19 +33,31 @@
 - 👽 All of my other projects are available on my [github](https://github.com/eliazzo?tab=repositories)
 
 <br>
+<br>
+<br>
+
+<p align="center"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  </a> 
+</p>
 
 
 <div align="center"> 
-  <h2>DevOps</h2>
-
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="AWS"  width="60" height="40"/><img src="https://fly.io/static/images/brand/logo-landscape.svg" alt="Fly.io" width="70" height="50"/>
 </div>
   
 
 <br>
-
-
-<h2 align="center">Read my <a href="https://www.canva.com/design/DAFaqu380dg/MLdirn4-TqpYfbGtuBygqw/view?utm_content=DAFaqu380dg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">CV</a></h2>
   
 <p align="center"><img src="DALL.E.png" width="300" alt="Woman coding"></p>
 
